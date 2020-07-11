@@ -1,0 +1,33 @@
+Berserker
+    14/26
+    strengthened
+    1 gold
+    invisible
+
+Plague
+    11/14
+    2 exp
+    2 gold
+
+
+Doom
+    13/17
+    4 exp
+    2 gold
+    strengthened
+
+QM
+    24/24
+    4 gold
+    Strengthened
+
+Living spirits
+    1 - 6
+    4 - 4
+    5 - 6
+    6 - 6
+
+Frosty
+    3 - 21
+
+
